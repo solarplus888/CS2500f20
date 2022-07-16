@@ -1,5 +1,5 @@
 # CS2500f20
-Fundamentals of computer science 1
+Fundamentals of computer science 1 (Northeastern University)
 
 https://www.ccs.neu.edu/home/nderbinsky/fundies1/m1.html
 
